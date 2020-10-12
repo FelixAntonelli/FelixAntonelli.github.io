@@ -1,2 +1,120 @@
 /* CSS Document */
+html,
+html *,
+body
+{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: "font1";
+	text-decoration-color: #1F1F1F;
+	color: #1F1F1F;
+}
+body
+{
+	
+	
+}
 
+h1 
+{
+	text-align: center;
+	color: red;
+}
+
+h2
+{
+	
+}
+
+@font-face {
+	font-family:font1;
+	src:url("fonts/Product Sans Light 300.ttf");
+}
+
+header 
+{
+	padding:5px;
+	padding-top: 0px;
+	width: 100%;
+	position: fixed;
+	background-color: #1F1F1F;
+	opacity: 0.5
+}
+
+h1
+{
+	color: #1F1F1F;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 4em;
+	letter-spacing: 0.5em;
+	padding: 10px;
+	padding-top: 100px;
+	
+}
+
+.break
+{
+	padding: 49px;
+}
+
+li
+{
+	float: right;
+	padding: 1em;
+}
+ul
+{
+	list-style-type: none;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+.site-nav
+{
+	width: 100%;
+}
+
+.profile
+{
+	width: 100%;
+  	height: 45em;
+  	margin: auto;
+  	padding: 10px;
+}
+
+.profileImage
+{
+	width: 50%;
+  	height: 100%;
+  	float: left;
+	
+}
+
+.profileBrief
+{
+	margin-left: 50%;
+	width: 50%;
+  	height: 100%;
+  	background: #386641;
+	text-align: center;
+	padding: 10em;
+}
+
+img
+{
+	max-height: 100%;
+	max-width: 100%;
+	box-shadow: 5px 5px 20px 5px #a8a8a8;
+	
+}
+
+footer
+{
+	
+	background-color: blueviolet;
+	
+}
