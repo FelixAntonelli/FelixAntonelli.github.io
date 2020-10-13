@@ -41,6 +41,12 @@ header
 	background-color: #1F1F1F;
 	opacity: 0.5
 }
+.logo
+{
+	width: 50%;
+	height: 50%;
+	
+}
 
 h1
 {
