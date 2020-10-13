@@ -109,14 +109,14 @@ ul
 {
 	list-style-type: none;
 }
-a
+.nav-butt
 {
 	font-size: 1em;
 	text-decoration: none;
 	color: #1f1f1f;
 	transition: 1s;
 }
-a:hover
+.nav-butt:hover
 {
 	color: #DA2C38;
 	font-size: 1.2em;
@@ -159,6 +159,49 @@ a:hover
 	max-width: 100%;
 	box-shadow: 5px 5px 20px 5px #a8a8a8;
 	
+}
+.page-img-container1
+{
+	height: 10em;
+   position: relative;
+	transition: 0.5s;
+}
+.page-img-container1 p2
+{
+	margin: 0;
+   	position: absolute;               /* 2 */
+   	top: 50%;                         /* 3 */
+   	right: 40%;
+	text-align: center;
+	font-size: 3em;
+	text-shadow: 5px 5px 10px;
+}
+.page-img-container1:hover
+{
+	height: 12em;
+   	top: 52%;
+}
+.pages
+{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.page-butt1
+{
+	text-decoration: none;
+}
+.page-img1
+{
+	width: 100%;
+	height: 15em;
+	box-shadow: 5px 5px 20px 5px #a8a8a8;
+	transition: 0.5s;
+}
+.page-img:hover
+{
+	width: 100%;
+	height: 16em;
+	box-shadow: 8px 40px 20px 5px #a8a8a8;
 }
 
 footer
