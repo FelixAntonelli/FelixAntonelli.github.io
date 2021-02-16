@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c053dd2-0813-475d-8205-93977001dbf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FelixAntonelli.github.io.dir/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FelixAntonelli.github.io.dir/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FelixAntonelli.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FelixAntonelli.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -79,14 +79,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613478476066</updated>
-      <workItem from="1613478480668" duration="19365000" />
+      <workItem from="1613478480668" duration="22655000" />
+      <workItem from="1613516708250" duration="911000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -96,22 +97,22 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613478866421" />
-    <state width="979" height="318" key="GridCell.Tab.0.bottom" timestamp="1613500360462">
+    <state width="979" height="318" key="GridCell.Tab.0.bottom" timestamp="1613508913800">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="979" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360462" />
-    <state width="979" height="318" key="GridCell.Tab.0.center" timestamp="1613500360462">
+    <state width="979" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613508913800" />
+    <state width="979" height="318" key="GridCell.Tab.0.center" timestamp="1613508913793">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="979" height="318" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360462" />
-    <state width="979" height="318" key="GridCell.Tab.0.left" timestamp="1613500360461">
+    <state width="979" height="318" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613508913793" />
+    <state width="979" height="318" key="GridCell.Tab.0.left" timestamp="1613508913793">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="979" height="318" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360461" />
-    <state width="979" height="318" key="GridCell.Tab.0.right" timestamp="1613500360462">
+    <state width="979" height="318" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613508913793" />
+    <state width="979" height="318" key="GridCell.Tab.0.right" timestamp="1613508913793">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="979" height="318" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360462" />
+    <state width="979" height="318" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613508913793" />
     <state x="1046" y="224" key="SettingsEditor" timestamp="1613482673712">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>

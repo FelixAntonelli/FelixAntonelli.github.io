@@ -3,7 +3,7 @@
 <head>
 	<script> function customresize()
 	{
-		let a = document.getElementById("profileImage");
+
 		let b = document.getElementById("profileBrief");
 		let c = document.getElementById("profile");
 		let d = document.getElementById("img-container1");
@@ -38,52 +38,46 @@
 	<h1 class="shadow1">FELIX ANTONELLI</h1>
 	
 	<!--Profile -->
-	<profile>
-		<article id = "profile">
-			<section class="profile">
-				<div class="profileImage" id = "profileImage">
-					<img class="proImage" src="images/DSC_0427.JPG" alt="" >
-				</div>
-				<div class="profileBrief" id = "profileBrief">
-					<h3>Felix Antonelli</h3>
-					<p1>This is a blank paragraph, used only for positioning</p1>
+	<article>
+		<section>
+
+
+				<div class="imageContainer">
+					<div id = "profileBrief" class="profileBrief">
+						<h3>Felix Antonelli</h3>
+						<p1>This is a blank paragraph, used only for positioning</p1>
+						
+					</div>
+					<div class="image">
+						<img  src="images/DSC_0427.JPG" alt="" >
+					</div>
 				</div>
 			</section>
 		</article>
-	</profile>
 	<!--Pages-->
-	
-		<article>
-			<section>
-				<div class="pages">
+	<article>
+		<section>
+
+			<div >
 				<ul>
+				
 					<li class="page-butt1">
-						<a href="UNI.html">
-							<div class="page-img-container1" id = "img-container1">
-								<img class="page-img1" src="images/16.9Background.png" alt="">
-								<h5>University Work</h5>
-							</div>
-						</a>
+						<div class="buttonStyle">
+							<a href="UNI.html" >University Work</a>
+						 </div>
+						 
+					</li>
 					</li>
 					<li class="page-butt1">
-						<a href="#">
-							<div class="page-img-container1">
-								<img class="page-img1" src="images/16.9Background.png" alt="">
-								<h5>College Work</h5>
-							</div>
-						</a>
+						<button type="submit" formaction="UNI.html" class="buttonStyle" >College Work</button>
 					</li>
 					<li class="page-butt1">
-						<a href="#">
-							<img class="page-img1" src="images/16.9Background.png" alt="">
-							<h5>Personal Work</h5>
-						</a>
+						<button href="#" class="buttonStyle" >Personal Work</button>
 					</li>
 				</ul>
-					</div>
-			</section>
-		</article>
-	
+			</div>
+		</section>
+	</article>
 	<!--Footer-->
 	<footer>
 	
