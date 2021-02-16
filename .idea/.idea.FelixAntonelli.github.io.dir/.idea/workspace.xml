@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c053dd2-0813-475d-8205-93977001dbf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FelixAntonelli.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FelixAntonelli.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -23,9 +26,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/UNI.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles.css" />
       </list>
     </option>
   </component>
@@ -44,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
@@ -74,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613478476066</updated>
-      <workItem from="1613478480668" duration="5468000" />
+      <workItem from="1613478480668" duration="19365000" />
     </task>
     <servers />
   </component>
@@ -91,22 +96,22 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613478866421" />
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom" timestamp="1613482506225">
+    <state width="979" height="318" key="GridCell.Tab.0.bottom" timestamp="1613500360462">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
-    <state width="2005" height="318" key="GridCell.Tab.0.center" timestamp="1613482506225">
+    <state width="979" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360462" />
+    <state width="979" height="318" key="GridCell.Tab.0.center" timestamp="1613500360462">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
-    <state width="2005" height="318" key="GridCell.Tab.0.left" timestamp="1613482506225">
+    <state width="979" height="318" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360462" />
+    <state width="979" height="318" key="GridCell.Tab.0.left" timestamp="1613500360461">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
-    <state width="2005" height="318" key="GridCell.Tab.0.right" timestamp="1613482506225">
+    <state width="979" height="318" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360461" />
+    <state width="979" height="318" key="GridCell.Tab.0.right" timestamp="1613500360462">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
+    <state width="979" height="318" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613500360462" />
     <state x="1046" y="224" key="SettingsEditor" timestamp="1613482673712">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>

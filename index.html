@@ -1,14 +1,25 @@
 <!doctype html>
 <html>
 <head>
-	<script> </script>
+	<script> function customresize()
+	{
+		let a = document.getElementById("profileImage");
+		let b = document.getElementById("profileBrief");
+		let c = document.getElementById("profile");
+		let d = document.getElementById("img-container1");
+		a.style.height = a.style.width;
+		b.style.height = a.style.height;
+		b.style.width = a.style.width;
+		c.style.height = a.style.height;
+		/*d.style.height = (parseInt(d.style.width) / 0.30).toString();*/
+	}
+	</script>
 <meta charset="utf-8">
 <title>Felix Antonelli</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
-	
+<body onresize= "customresize()">
 	<header class="header1">
 		<a class="#">
 		<img class="logo" src="images/logo4.png" alt="">
@@ -17,7 +28,7 @@
 		<nav class="site-nav">
 			<ul>
 				<li><a class="nav-butt" href="#">PERSONAL</a></li>
-				<li><a class="nav-butt" href="#">COLLEGE</a></li>
+				<li><a class="nav-butt" href="UNI.html">COLLEGE</a></li>
 				<li><a class="nav-butt" href="#">UNI</a></li>
 				<li><a class="nav-butt" href="#">HOME</a></li>
 			</ul>
@@ -28,10 +39,10 @@
 	
 	<!--Profile -->
 	<profile>
-		<article>
+		<article id = "profile">
 			<section class="profile">
-				<div class="profileImage">
-					<img class="proImage" src="images/DSC_0427.JPG" alt="">
+				<div class="profileImage" id = "profileImage">
+					<img class="proImage" src="images/DSC_0427.JPG" alt="" >
 				</div>
 				<div class="profileBrief" id = "profileBrief">
 					<h3>Felix Antonelli</h3>
@@ -47,27 +58,25 @@
 				<div class="pages">
 				<ul>
 					<li class="page-butt1">
-						<a href="#">
-							<div class="page-img-container1">
-								<img class="page-img1"src="images/16.9Background.png" alt="">
-								<p2>University Work</p2>
+						<a href="UNI.html">
+							<div class="page-img-container1" id = "img-container1">
+								<img class="page-img1" src="images/16.9Background.png" alt="">
+								<h5>University Work</h5>
 							</div>
 						</a>
 					</li>
-					<li class="page-butt">
+					<li class="page-butt1">
 						<a href="#">
 							<div class="page-img-container1">
-								<img class="page-img1"src="images/16.9Background.png" alt="">
-								<p2>College Work</p2>
+								<img class="page-img1" src="images/16.9Background.png" alt="">
+								<h5>College Work</h5>
 							</div>
 						</a>
 					</li>
-					<li class="page-butt">
+					<li class="page-butt1">
 						<a href="#">
-							<div class="page-img-container1">
-								<img class="page-img1"src="images/16.9Background.png" alt="">
-								<p2>Personal Work</p2>
-							</div>
+							<img class="page-img1" src="images/16.9Background.png" alt="">
+							<h5>Personal Work</h5>
 						</a>
 					</li>
 				</ul>

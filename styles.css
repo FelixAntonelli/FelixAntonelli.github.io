@@ -4,8 +4,6 @@ html *,
 body
 {
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
 	font-family: "font1";
 	text-decoration-color: #1F1F1F;
 	color: #1F1F1F;
@@ -94,17 +92,15 @@ h2
 {
 	
 }
-
 .break
 {
 	padding: 49px;
 }
-
-li
+float-right
 {
 	float: right;
-	padding: 1em;
 }
+li {}
 ul
 {
 	list-style-type: none;
@@ -115,6 +111,8 @@ ul
 	text-decoration: none;
 	color: #1f1f1f;
 	transition: 1s;
+	float: right;
+	padding: 1em;
 }
 .nav-butt:hover
 {
@@ -129,8 +127,6 @@ ul
 
 .profile
 {
-	width: 100%;
-  	height: 45em;
   	margin: auto;
   	padding: 10px;
 }
@@ -141,22 +137,14 @@ ul
   	height: 100%;
   	float: left;
 }
-.profileBrief2
-{
-	width: 50%;
-	margin-left: 50%;
-	border: 2px solid red;
-}
-
 .profileBrief
 {
-	margin-left: 50%;
-	width: 50%;
+	width: 45%;
+	float: right;
   	background: #386641;
 	text-align: center;
 	box-shadow: 5px 5px 20px 5px #a8a8a8;
 }
-
 .proImage
 {
 	max-height: 100%;
@@ -164,27 +152,7 @@ ul
 	box-shadow: 5px 5px 20px 5px #a8a8a8;
 	
 }
-.page-img-container1
-{
-	height: 10em;
-    position: relative;
-	transition: 0.5s;
-}
-.page-img-container1 p2
-{
-	margin: 0;
-   	position: absolute;               /* 2 */
-   	top: 50%;                         /* 3 */
-   	right: 40%;
-	text-align: center;
-	font-size: 3em;
-	text-shadow: 5px 5px 10px;
-}
-.page-img-container1:hover
-{
-	height: 12em;
-   	top: 52%;
-}
+
 .pages
 {
 	padding-left: 5%;
@@ -192,25 +160,36 @@ ul
 }
 .page-butt1
 {
+	position: relative;
+	height: 20%;
 	text-decoration: none;
-}
-.page-img1
-{
-	width: 100%;
-	height: 15em;
-	box-shadow: 5px 5px 20px 5px #a8a8a8;
-	transition: 0.5s;
-}
-.page-img:hover
-{
-	width: 100%;
-	height: 16em;
-	box-shadow: 8px 40px 20px 5px #a8a8a8;
+	transition: 1s;
 }
 
+.page-img1
+{
+	width: 95%;
+	height: 200px;
+	transition: 1s;
+	transition-timing-function:
+			cubic-bezier(0.6, -0.16, 0.45, 1.16);
+	box-shadow: 5px 5px 20px 5px #a8a8a8;
+	text-align: center;
+}
+.page-img1:hover
+{
+	width: 100%;
+	height: 220px;
+	box-shadow: 5px 5px 20px 5px #a8a8a8;
+}
+.h5
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
 footer
 {
-	
 	background-color: blueviolet;
-	
 }
