@@ -19,7 +19,7 @@ body
 h1 
 {
 	text-align: center;
-	color: red;
+	color: #ff0000;
 }
 
 h2
@@ -141,15 +141,19 @@ ul
   	height: 100%;
   	float: left;
 }
+.profileBrief2
+{
+	width: 50%;
+	margin-left: 50%;
+	border: 2px solid red;
+}
 
 .profileBrief
 {
 	margin-left: 50%;
 	width: 50%;
-  	height: 100%;
   	background: #386641;
 	text-align: center;
-	padding: 10em;
 	box-shadow: 5px 5px 20px 5px #a8a8a8;
 }
 
@@ -163,7 +167,7 @@ ul
 .page-img-container1
 {
 	height: 10em;
-   position: relative;
+    position: relative;
 	transition: 0.5s;
 }
 .page-img-container1 p2

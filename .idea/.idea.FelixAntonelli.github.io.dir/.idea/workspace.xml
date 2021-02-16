@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c053dd2-0813-475d-8205-93977001dbf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1oYzmgvZnDsiIV8aVDtsfEfabIq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="8.10.66" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FelixAntonelli.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c053dd2-0813-475d-8205-93977001dbf7" name="Default Changelist" comment="" />
+      <created>1613478476066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613478476066</updated>
+      <workItem from="1613478480668" duration="5468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613478866421">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613478866421" />
+    <state width="2005" height="318" key="GridCell.Tab.0.bottom" timestamp="1613482506225">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
+    <state width="2005" height="318" key="GridCell.Tab.0.center" timestamp="1613482506225">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
+    <state width="2005" height="318" key="GridCell.Tab.0.left" timestamp="1613482506225">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
+    <state width="2005" height="318" key="GridCell.Tab.0.right" timestamp="1613482506225">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482506225" />
+    <state x="1046" y="224" key="SettingsEditor" timestamp="1613482673712">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1046" y="224" key="SettingsEditor/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613482673712" />
+    <state x="1193" y="272" key="run.anything.popup" timestamp="1613478721395">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1193" y="272" key="run.anything.popup/0.0.2048.1152/-1920.173.1536.824@0.0.2048.1152" timestamp="1613478721395" />
+  </component>
+</project>
